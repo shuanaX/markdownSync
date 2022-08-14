@@ -5,4 +5,3 @@ git status
 git add -A
 git commit -m "AutoSync"
 git push origin master
-pause
