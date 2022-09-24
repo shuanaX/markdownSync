@@ -44,3 +44,19 @@ Here is the promised playlist. Enjoy these catchy songs and delicious curries!
 
 https://open.spotify.com/playlist/6tpTvZKea8NhSbloWGDyi1?si=97fe2abd1e63427a
 
+## Scholarly Writing Experiment #1: Reading the Faculty
+
+Dear Dr. Sowlati,
+
+As a fourth-year student in the Woodworking program at the University of British Columbia, I am writing to seek the opportunity to have you as my future graduate supervisor from September, 2024. I studied WOOD 339 under your guidance and am now studying WOOD 440 and W00D 492, which made me realize how mathematical methods and optimization theory can be integrated with the forest industry and supply chain management. Upon visiting the website of your research group, I learned more about your work and your emphasis on applications of modeling and data analysis in industry engineering. I was impressed by one of your papers investigated a robust optimization model for a forest-based biomass supply chain by introducing uncertain variables, namely biomass availability and time interval.
+
+I used to study optimal control based on fractional-order differential equations to analyze the uncertain dynamics of complex systems and optimize the desired properties. Although I have studied different application areas, such as option pricing and circuit systems reliability (I would love to show you my paper on this if you are interested in), I have not been able to apply what I have learned from my major, wood science, to  optimization and uncertainty researches. However, your group's work has inspired me to look at the potential applications of mathematical models in forestry. The review part of your paper motioned above, written in an simple and concise way, is especially helpful for me to seek an entry point for my future researches. 
+
+I find that few papers in this area build explicit stochastic mathematical models to deal with real-world uncertainty. Most of the time the Monte Carlo method is used, which is also the case in some papers of your group. Fractional order equations and stochastic processes are powerful tools for describing real-world uncertainty and solving optimization problems, and they may find their application in the forestry field.
+
+I would welcome the opportunity to demonstrate my interest and to discuss in detail with you at your convenience. After completing my undergraduate studies, I intend to pursue a master's degree in the hybrid field of optimal control and forest industry management.. Your guidance would be invaluable to me. Hopefully I will be able to participate in research with your group. 
+
+I am looking forward to you reply. 
+
+Sincerely, 
+Hongxuan Xia
