@@ -60,3 +60,7 @@ I am looking forward to you reply.
 
 Sincerely, 
 Hongxuan Xia
+
+## Summary Practice
+
+“The egg and the sperm: How science has constructed a romance based on stereotypical male/female roles”, written by Martin (1991), argues that the way biologists describe female and male genitals is based on gender stereotypes that values breading, even when academic terminology is used. In particular, it promotes a bias against female reproductive systems, where ovulation is hailed as a great accomplishment, whereas menstruation is considered to be a failure. Comparatively, descriptions of the male reproductive process are full of admiration and excitement.
